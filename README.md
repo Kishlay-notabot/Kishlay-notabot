@@ -6,6 +6,6 @@ Kishlay-notabot/Kishlay-notabot is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kishlay-notabot&theme=dark)](https://git.io/streak-stats)
-2022 update
+2022 update <br>
 Working on academics majorly
 also decided to devote learning to a specific topic at once
