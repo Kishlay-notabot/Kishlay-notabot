@@ -7,4 +7,5 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kishlay-notabot&theme=transparent"/></a>
 </p>
-![Kishlay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishlay-notabot&theme=shadow_red&show_icons=true)
+![Kishlay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kishlay-notabot&show_icons=true&theme=shadow_red)
+
