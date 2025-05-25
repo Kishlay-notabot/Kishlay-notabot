@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/5cd035f0-06c3-4636-911a-2da652c21096)
 
-
-
+_This user is advised not to be left unattended on sundays. Thankyou._  
+-- 50 incomplete projects
 <!---Hi, I’m @Kishlay-notabot
 
 Kishlay-notabot/Kishlay-notabot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
