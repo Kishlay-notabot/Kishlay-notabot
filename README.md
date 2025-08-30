@@ -1,8 +1,9 @@
 Hello World!
 
 ![image](https://github.com/user-attachments/assets/5cd035f0-06c3-4636-911a-2da652c21096) <br>
-"emotional stability" thing ain't getting my side projects done any faster mate.
+
 <!--- 
+"emotional stability" thing ain't getting my side projects done any faster mate.
 _This user is advised not to be left unattended on sundays. Thankyou._  
 -- 50 incomplete projects
 -Hi, I’m @Kishlay-notabot
