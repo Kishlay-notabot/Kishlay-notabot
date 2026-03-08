@@ -1,5 +1,6 @@
 Hello World!  
-check out monkeSearch, [my latest project](https://monkesearch.github.io)
+check out monkeSearch, [my latest project](https://monkesearch.github.io)  
+A lazy attempt at trying to remember what i've done till now: [here](https://kishlay-notabot.github.io)
 
 ![image](https://github.com/user-attachments/assets/5cd035f0-06c3-4636-911a-2da652c21096) <br>
 
