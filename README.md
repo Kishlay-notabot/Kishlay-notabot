@@ -1,6 +1,8 @@
 Hello World!  
-check out monkeSearch, [my latest project](https://monkesearch.github.io)  
-A lazy attempt at trying to remember what i've done till now: [here](https://kishlay-notabot.github.io)
+
+I made a [puzzle game](https://wordconnectleague.vercel.app/)! plz try it out! you don't have to sign up!<br><br>
+A lazy attempt at trying to remember what i've done till now (portfolio site): [here](https://kishlay-notabot.github.io) <br><br>
+check out monkeSearch, [my fav project](https://monkesearch.github.io)  
 
 ![image](https://github.com/user-attachments/assets/5cd035f0-06c3-4636-911a-2da652c21096) <br>
 
