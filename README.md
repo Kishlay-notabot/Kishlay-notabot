@@ -1,6 +1,5 @@
 Hello World!  
 
-I made a [puzzle game](https://wordconnectleague.vercel.app/)! plz try it out! you don't have to sign up!<br><br>
 A lazy attempt at trying to remember what i've done till now (portfolio site): [here](https://kishlay-notabot.github.io) <br><br>
 check out monkeSearch, [my fav project](https://monkesearch.github.io)  
 
